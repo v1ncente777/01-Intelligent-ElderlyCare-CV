@@ -1,0 +1,2 @@
+pip3 install scipy numpy imutils matplotlib 
+pip3 install opencv-python==4.2.0.32 && pip3 install opencv-contrib-python==4.2.0.32
